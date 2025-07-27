@@ -64,4 +64,4 @@ The icons are organized into folders by field:
 > You can download individual icons or clone the full repository:
 
 ```bash
-git clone https://github.com/YourUsername/your-icon-repo.git
+git clone https://github.com/ayoub-ben-99/icons-acode.git
