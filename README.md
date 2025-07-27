@@ -1,4 +1,6 @@
-| ![](previews/design1.png)
+| ![](/cover%20icons.png)
+
+---
 
 # 🎨 1000+ Icons Collection for Developers & Designers
 
